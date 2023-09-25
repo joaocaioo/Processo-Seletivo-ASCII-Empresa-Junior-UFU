@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.retangulo {
+    width: 410px;
+    height: 497px;
+    top: 263px;
+    left: 514px;
+    border-radius: 20px;
+    background-color: #232323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.main {
+    width: 414px;
+    height: 379px;
+    top: 337px;
+    left: 513px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+
+}
+
+.USER {
+    width: 411px;
+    height: 27px;
+    top: 337px;
+    left: 514px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.PASSWORD {
+    width: 410px;
+    height: 27px;
+    top: 455px;
+    left: 514px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+
+
+.group1 {
+    width: 411px;
+    height: 67px;
+    top: 337px;
+    left: 514px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 51px;
+
+
+}
+
+.group2 {
+    width: 410px;
+    height: 67px;
+    top: 455px;
+    left: 514px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 37px;
+
+}
+
+
+
+input {
+    width: 275px;
+    height: 40px;
+    top: 364px;
+    left: 584px;
+    border-radius: 30px;
+    border: none;
+
+}
+
+button {
+    width: 170px;
+    height: 42px;
+    top: 559px;
+    left: 637px;
+    border-radius: 30px;
+    background: #851B1B;
+    border: none;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 48px;
+
+}
+
+.reset {
+    width: 411px;
+    height: 35px;
+    top: 649px;
+    left: 513px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.create {
+    width: 410px;
+    height: 32px;
+    top: 684px;
+    left: 517px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
