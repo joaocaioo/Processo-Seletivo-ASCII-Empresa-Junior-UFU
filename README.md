@@ -3,4 +3,8 @@
 
 ### Desafios
 
-- Desafio 1 : Tela de login    
+- Desafio 1 : Tela de login   
+- Desafio 2 : Responsividade
+    - Tela 1
+    - Tela 2
+    - Tela 3
